@@ -1,3 +1,3 @@
 
-chmod 777 push
-chmod 777 connect
+chmod +xvr push
+chmod +xvr connect
